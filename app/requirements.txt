@@ -1,0 +1,26 @@
+rubygems = 2.4.8
+nodejs = v0.10.32
+sass = 3.4.6
+compass = 1.0.1
+Django = 1.7.9
+djangorecipe = 2.1.1
+raven = 5.1.1
+python-memcacheched
+fabric
+django-debug-toolbar
+selenium
+Jinja2
+unittest-xml-reporting
+django-cms
+cmsplugin-filer
+djangocms-link
+djangocms-text-ckeditor
+djangocms-tableroot
+stripe
+django-formtools
+jvm_toolbox
+geopy
+django-tinymce
+xlwt
+xlrd
+
